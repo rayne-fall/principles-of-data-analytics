@@ -29,3 +29,7 @@ The project is contained in a Jupyter notebook, so you'll need to install Python
 1. https://stackoverflow.com/questions/51293196/attributeerror-numpy-ndarray-object-has-no-attribute-drop (NaN values need to be removed from a data frame before it's converted to a NumPy array, not after)
 1. https://statistics.laerd.com/statistical-guides/pearson-correlation-coefficient-statistical-guide.php (what the correlation coefficient means)
 1. https://stackoverflow.com/questions/16950074/valueerror-shape-mismatch-objects-cannot-be-broadcast-to-a-single-shape (both the x and y values need to be given as arrays to avoid "ValueError: shape mismatch: objects cannot be broadcast to a single shape" error)
+1. https://matplotlib.org/stable/users/explain/axes/autoscale.html (adjusting the axis limits)
+1. https://www.w3schools.com/python/matplotlib_bars.asp (plotting bar charts in Matplotlib)
+1. https://www.w3schools.com/python/matplotlib_grid.asp (adding gridlines to plot)
+1. https://matplotlib.org/stable/users/explain/quick_start.html#labelling-plots (adding text and labels to plots)
