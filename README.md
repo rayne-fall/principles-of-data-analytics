@@ -14,6 +14,7 @@ This repository contains my project work for the Spring 2024 PRINCIPLES OF DATA 
 - Modeling the dataset
     - Types of variable
     - Plotting the species counts
+    - Plotting the bill length
 - Correlation between body mass and flipper length
 
 ## Required software
@@ -22,7 +23,6 @@ The project is contained in a Jupyter notebook, so you'll need to install Python
 
 ## References:
 1. https://realpython.com/python-matplotlib-guide/#understanding-pltsubplots-notation (plotting in Matplotlib)
-1. https://www.geeksforgeeks.org/how-to-plot-bar-graph-in-python-using-csv-file/ (plotting bar chart from a CSV file)
 1. https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html (use NumPy to fit a least squares polynomial)
 1. https://numpy.org/doc/stable/reference/generated/numpy.corrcoef.html (use NumPy to calculate the correlation coefficient)
 1. https://stackoverflow.com/questions/21827594/raise-linalgerrorsvd-did-not-converge-linalgerror-svd-did-not-converge-in-m#comment123702942_22523229 (how to remove NaN values to avoid "LinAlgError("SVD did not converge") LinAlgError: SVD did not converge" error)
