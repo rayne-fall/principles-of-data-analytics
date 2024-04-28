@@ -3,19 +3,21 @@
 This repository contains my project work for the Spring 2024 PRINCIPLES OF DATA ANALYTICS module at Atlantic Technological University. The project work itself is contained in the Jupyter notebook and the references are listed below.
 
 ## Table of Contents
+- Introduction
 - Imports
 - Load the dataset
 - Examine the data
     - Examining the first penguin
-    - Counting the sexes
     - Counting the species
     - Counting the population of each island
+    - Counting the sexes
     - Describing the set
 - Modeling the dataset
     - Types of variable
     - Plotting the species counts
     - Plotting the bill length
-- Correlation between body mass and flipper length
+- Relationship between body mass and flipper length
+- Conclusion
 
 ## Required software
 
@@ -33,3 +35,7 @@ The project is contained in a Jupyter notebook, so you'll need to install Python
 1. https://www.w3schools.com/python/matplotlib_bars.asp (plotting bar charts in Matplotlib)
 1. https://www.w3schools.com/python/matplotlib_grid.asp (adding gridlines to plot)
 1. https://matplotlib.org/stable/users/explain/quick_start.html#labelling-plots (adding text and labels to plots)
+1. https://journal.r-project.org/articles/RJ-2022-020/RJ-2022-020.pdf (Horst et al, *Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises*)
+1. *The species problem in Iris*, E. Anderson, 1936, *Annals of the Missouri Botanical Garden*, Volume 23, Issue 3, pages 457-469, 471-483, 485-501, 503-509 https://www.jstor.org/stable/2394164?origin=crossref%3Forigin%3Dcrossref&seq=1
+1. https://stackoverflow.com/questions/28080066/how-to-reference-a-ipython-notebook-cell-in-markdown (how to link to another cell in the same notebook)
+1. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081 (Gorman et al, *Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis)*)
